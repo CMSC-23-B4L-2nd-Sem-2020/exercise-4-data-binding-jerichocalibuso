@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exer4</string>
+    <string name="title_text">Data Binding</string>
+    <string name="subtitle_text">using Forms</string>
+    <string name="name_text">Name</string>
+    <string name="nickname_text">Nickname</string>
+    <string name="age_text">Age</string>
+    <string name="birthday_text">Birthday</string>
+    <string name="degree_text">Degree program</string>
+    <string name="number_text">Mobile number</string>
+    <string name="color_text">Favorite color</string>
+    <string name="dream_text">Ultimate dream</string>
+    <string name="crush_text">Secret crush</string>
+    <string name="message_text">Message for me</string>
+</resources>
